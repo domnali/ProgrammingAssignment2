@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+## ******************************************* Domna Lyrtzi *******************************************
+>>>>>>> dace220a85f56e6875940d06fcc6c006b6e3a861
 ## The first function makeCacheMatrix takes as a parameter a matrix and 
 ## creates a 'special matrix' which is a list with 4 elements:
 ##      set, function that gives value to the matrix from upper environment
